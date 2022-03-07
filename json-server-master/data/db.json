@@ -1,0 +1,530 @@
+{
+
+    "school":[
+      {
+        "id": "1",
+        "name": "ahmed bougatf",
+        "username": "Bougatfa8",
+        "email": "ahmed@april.biz"
+    
+      },
+      {
+        "id": "2",
+        "name": "sami boussaa",
+        "username": "samiangel",
+        "email": "sami@google.biz"
+   
+      },
+      {
+        "id": "3",
+        "name": "morad hamim",
+        "username": "Hamami",
+        "email": "aziz@gmail.com"
+     
+      }, {
+        "id": "4",
+        "name": "ahmed bougatf",
+        "username": "Bougatfa8",
+        "email": "ahmed@april.biz"
+   
+      }, 
+      {
+        "id": "5",
+        "name": "ahmed bougatf",
+        "username": "Bougatfa8",
+        "email": "ahmed@april.biz"
+  
+      },
+       {
+        "id": "6",
+        "name": "ahmed bougatf",
+        "username": "Bougatfa8",
+        "email": "ahmed@april.biz"
+    
+      },
+       {
+        "id": "7",
+        "name": "ahmed mohamed",
+        "username": "88fifi",
+        "email": "fof@yahoo.biz"
+   
+      },
+      {
+        "id": "8",
+        "name": "samibenmared",
+        "username": "00ali888",
+        "email": "ali889@april.biz"
+  
+      },
+       {
+        "id": "9",
+        "name": "morad adridi",
+        "username": "kjfkdjq",
+        "email": "dfvdf@april.biz"
+    
+      },
+       {
+        "id": "10",
+        "name": "Salem kahla",
+        "username": "salem998",
+        "email": "aliod@april.biz"
+   
+      },
+      {
+        "id": "11",
+        "name": "Salem kahla",
+        "username": "salem998",
+        "email": "aliod@april.biz"
+   
+      },
+      {
+        "id": "12",
+        "name": "sami boussaa",
+        "username": "samiangel",
+        "email": "sami@google.biz"
+   
+      },
+      {
+        "id": "13",
+        "name": "morad hamim",
+        "username": "Hamami",
+        "email": "aziz@gmail.com"
+     
+      }, {
+        "id": "14",
+        "name": "ahmed bougatf",
+        "username": "Bougatfa8",
+        "email": "ahmed@april.biz"
+   
+      }, 
+      {
+        "id": "15",
+        "name": "ahmed bougatf",
+        "username": "Bougatfa8",
+        "email": "ahmed@april.biz"
+  
+      },
+       {
+        "id": "16",
+        "name": "ahmed bougatf",
+        "username": "Bougatfa8",
+        "email": "ahmed@april.biz"
+    
+      },
+       {
+        "id": "17",
+        "name": "ahmed mohamed",
+        "username": "88fifi",
+        "email": "fof@yahoo.biz"
+   
+      },
+      {
+        "id": "18",
+        "name": "samibenmared",
+        "username": "00ali888",
+        "email": "ali889@april.biz"
+  
+      },
+       {
+        "id": "19",
+        "name": "morad adridi",
+        "username": "kjfkdjq",
+        "email": "dfvdf@april.biz"
+    
+      },
+       {
+        "id": "20",
+        "name": "Salem kahla",
+        "username": "salem998",
+        "email": "aliod@april.biz"
+   
+      },
+      {
+        "id": "21",
+        "name": "Salem kahla",
+        "username": "salem998",
+        "email": "aliod@april.biz"
+   
+      }
+        
+      
+    ],
+    "eleve":[
+        {
+          "id": "39-ds647887rrr-999845",
+          "name": "3900",
+          "username": "02/08/2021",
+          "email": "2"
+      
+        },
+        {
+          "id": "39-ds64788784-wxxx8",
+          "name": "2900",
+          "username": "04/04/2021",
+          "email": "3"
+     
+        },
+        {
+          "id": "31-770-736-8031 x56442",
+          "name": "1800",
+          "username": "05/03/2022",
+          "email": "2"
+       
+        }, {
+          "id": "1-770-736-8031 x56442",
+          "name": "950",
+          "username": "02/01/2020",
+          "email": "1"
+     
+        },
+        {
+            "id": "39-ds647887rrr-999845",
+            "name": "3900",
+            "username": "02/08/2021",
+            "email": "2"
+        
+          },
+          {
+            "id": "39-ds64788784-wxxx8",
+            "name": "2900",
+            "username": "05/03/2022",
+            "email": "3"
+       
+          },
+          {
+            "id": "31-770-736-8031 x56442",
+            "name": "1800",
+            "username": "02/08/2021",
+            "email": "2"
+         
+          }, {
+            "id": "1-770-736-8031 x56442",
+            "name": "950",
+            "username": "02/08/2021",
+            "email": "1"
+       
+          },
+          {
+            "id": "39-ds647887rrr-999845",
+            "name": "3900",
+            "username": "02/01/2020",
+            "email": "2"
+        
+          },
+          {
+            "id": "39-ds64788784-wxxx8",
+            "name": "2900",
+            "username": "12/09/2021",
+            "email": "3"
+       
+          },
+          {
+            "id": "31-770-736-8031 x56442",
+            "name": "1800",
+            "username": "02/08/2021",
+            "email": "2"
+         
+          }, {
+            "id": "1-770-736-8031 x56442",
+            "name": "950",
+            "username": "02/19/2021",
+            "email": "1"
+       
+          },
+          {
+            "id": "39-ds647887rrr-999845",
+            "name": "3900",
+            "username": "13/11/2021",
+            "email": "2"
+        
+          },
+          {
+            "id": "39-ds64788784-wxxx8",
+            "name": "2900",
+            "username": "02/08/2021",
+            "email": "3"
+       
+          },
+          {
+            "id": "31-770-736-8031 x56442",
+            "name": "1800",
+            "username": "02/01/2020",
+            "email": "2"
+         
+          }, {
+            "id": "1-770-736-8031 x56442",
+            "name": "950",
+            "username": "11/11/2021",
+            "email": "1"
+       
+          },
+          {
+              "id": "39-ds647887rrr-999845",
+              "name": "3900",
+              "username": "02/08/2021",
+              "email": "2"
+          
+            },
+            {
+              "id": "39-ds64788784-wxxx8",
+              "name": "2900",
+              "username": "18/08/2022",
+              "email": "3"
+         
+            },
+            {
+              "id": "31-770-736-8031 x56442",
+              "name": "1800",
+              "username": "14/02/2020",
+              "email": "2"
+           
+            }, {
+              "id": "1-770-736-8031 x56442",
+              "name": "950",
+              "username": "19/08/2022",
+              "email": "1"
+         
+            },
+            {
+              "id": "39-ds647887rrr-999845",
+              "name": "3900",
+              "username": "28/08/2022",
+              "email": "2"
+          
+            },
+            {
+              "id": "39-ds64788784-wxxx8",
+              "name": "2900",
+              "username": "14/02/2020",
+              "email": "3"
+         
+            },
+            {
+              "id": "31-770-736-8031 x56442",
+              "name": "1800",
+              "username": "11/11/2021",
+              "email": "2"
+           
+            }, {
+              "id": "1-770-736-8031 x56442",
+              "name": "950",
+              "username": "14/02/2020",
+              "email": "1"
+         
+            },
+            {
+              "id": "39-ds647887rrr-999845",
+              "name": "3900",
+              "username": "29/04/2020",
+              "email": "2"
+          
+            },
+            {
+              "id": "39-ds64788784-wxxx8",
+              "name": "2900",
+              "username": "06/03/2021",
+              "email": "3"
+         
+            },
+            {
+              "id": "31-770-736-8031 x56442",
+              "name": "1800",
+              "username": "12/09/2021",
+              "email": "2"
+           
+            }, {
+              "id": "1-770-736-8031 x56442",
+              "name": "950",
+              "username": "11/11/2021",
+              "email": "1"
+         
+            },
+            {
+                "id": "39-ds647887rrr-999845",
+                "name": "3900",
+                "username": "22/05/2022",
+                "email": "2"
+            
+              },
+              {
+                "id": "39-ds64788784-wxxx8",
+                "name": "2900",
+                "username": "02/01/2020",
+                "email": "3"
+           
+              },
+              {
+                "id": "31-770-736-8031 x56442",
+                "name": "1800",
+                "username": "01/01/2021",
+                "email": "2"
+             
+              }, {
+                "id": "1-770-736-8031 x56442",
+                "name": "950",
+                "username": "09/02/2022",
+                "email": "1"
+           
+              },
+              {
+                "id": "39-ds647887rrr-999845",
+                "name": "3900",
+                "username": "19/08/2021",
+                "email": "2"
+            
+              },
+              {
+                "id": "39-ds64788784-wxxx8",
+                "name": "2900",
+                "username": "11/02/2022",
+                "email": "3"
+           
+              },
+              {
+                "id": "31-770-736-8031 x56442",
+                "name": "1800",
+                "username": "17/03/2022",
+                "email": "2"
+             
+              }, {
+                "id": "1-770-736-8031 x56442",
+                "name": "950",
+                "username": "17/02/2022",
+                "email": "1"
+           
+              }
+    ],
+    
+        "game": [
+          
+          {    
+            "id":"1",
+            "scores":"950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"1" 
+          },
+          {    
+            "id":"1",
+            "scores":"1950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"2" 
+          },
+          {    
+            "id":"1",
+            "scores":"950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"3" 
+          },
+          {    
+            "id":"2",
+            "scores":"1400",
+        "idmachine": "1-770-5896-g56459g 65415",
+        "classe": "5A",
+        "level":"2"
+          },
+          {    
+            "id":"2",
+            "scores":"1950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"2" 
+          },
+          {    
+            "id":"2",
+            "scores":"1400",
+            "idmachine": "1-770-5896-g56459g 65415",
+            "classe": "5A",
+            "level":"2"
+          },
+          {    
+            "id":"3",
+            "idmachine": "1-770-736-8031 x56442",
+        "classe": "5B",
+        "level":"1"
+          },
+          {    
+            "id":"3",
+            "scores":"1950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"2" 
+          },
+          {    
+            "id":"3",
+            "scores":"950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"3" 
+          },
+          {    
+            "id":"4",
+            "scores":"950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"1" 
+          },
+          {    
+            "id":"5",
+            "scores":"1950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"2" 
+          },
+          {    
+            "id":"6",
+            "scores":"950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"3" 
+          },
+          {    
+            "id":"6",
+            "scores":"950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"1" 
+          },
+          {    
+            "id":"7",
+            "scores":"1950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"2" 
+          },
+          {    
+            "id":"7",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"1"
+          },
+          {    
+            "id":"8",
+            "scores":"950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"1" 
+          },
+          {    
+            "id":"9",
+            "scores":"950",
+            "idmachine": "1-770-736-8031 x56442",
+            "classe": "5B",
+            "level":"1" 
+          }
+         
+    
+        ],
+        "users": [
+          { "id": 1, "nom": "ahmed", "prenom": "bougatf","classe":"dsi21", "age":"34","email":"a@gmail.com","pass":"123" },
+          { "id": 2, "nom": "sami", "prenom": "boussaa","classe":"dsi22", "age":"34","email":"s@gmail.com","pass":"123" }
+    
+        ],
+        "prof": [{ "email": "a@gmail.com", "pass" :"123" },
+            { "email": "b@gmail.com", "pass" :"123" }
+        
+        ]
+    
+      }
